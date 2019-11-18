@@ -1,4 +1,4 @@
-# YYYY-MM-DD pravah meetup
+# DD-MM-YYYY pravah meetup
 
 **Moderator**:
 
