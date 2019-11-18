@@ -1,4 +1,4 @@
-# YYYY-MM-DD pravah meetup
+# 18-11-2019 pravah meetup
 
 **Moderator**: @upperwal
 
